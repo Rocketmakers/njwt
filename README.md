@@ -1,5 +1,7 @@
 # nJwt - JWTs for Node.js
 
+## NOTE: This is a temporary npm package to fix an issue in the original forked repo https://github.com/jwtk/njwt (see https://github.com/jwtk/njwt/issues/4)
+
 "Nin-Jot" /ˈnɪn.dʒɑt/
 
 [![NPM Version](https://img.shields.io/npm/v/njwt.svg?style=flat)](https://npmjs.org/package/njwt)

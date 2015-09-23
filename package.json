@@ -1,5 +1,5 @@
 {
-  "name": "njwt",
+  "name": "rocketmakers-njwt",
   "version": "0.2.2",
   "description": "JWT Library for Node.js",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jwtk/njwt"
+    "url": "https://github.com/Rocketmakers/njwt"
   },
   "keywords": [
     "jwt"
@@ -19,9 +19,9 @@
   "author": "Stormpath, Inc.",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/jwtk/njwt/issues"
+    "url": "https://github.com/Rocketmakers/njwt/issues"
   },
-  "homepage": "https://github.com/jwtk/njwt",
+  "homepage": "https://github.com/Rocketmakers/njwt",
   "dependencies": {
     "uuid": "^2.0.1"
   },
